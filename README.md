@@ -1,6 +1,7 @@
-# webpack 配置（下）
+# RUI
+A library of UI components with TS + React hooks.
 
-## 使用方法
+## USAGE
 
 1. yarn install
 2. yarn start
